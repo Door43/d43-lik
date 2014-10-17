@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lik:home|Door43 (lik)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lik|d43-lik repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lik/archive/master.zip|d43-lik.zip]]
+
+**Recent Changes**
+{{changes>ns = lik}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lik|Ethnologue data]]
+
